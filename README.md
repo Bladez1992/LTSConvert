@@ -15,10 +15,11 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
   
 **_Info_**
 - The Windows installer may hang a few times around 70-100% for a while - be patient and wait, it will continue
-
-
   
+  
+    
 **_Common Questions_**
+  
 **Will I lose any data by doing this/does this remove anything I already have installed?**
 - No! That's exactly the purpose of this, so you can switch without losing any data or having to do a fresh installation of Windows.
   

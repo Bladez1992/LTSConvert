@@ -29,4 +29,4 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
 - Yes! I've been successfully able to use this on Home, Pro, and Education versions of 22H2 - they convert back to 21H2 just fine.
 
 **Can I use a real key rather than MAS to activate Windows 10 IoT Enterprise LTSC 2021?**
-- Yes! The only caveat being that they're generally pretty pricey ($150+) but this converts you to a full, real installation of Windows 10 IoT Enterprise LTSC 2021. Just skip the step of running step 3: Activate Windows in the launcher if you'd like to do this.
+- Yes! The only caveat being that they're generally pretty pricey ($150+) but this converts you to a full, real installation of Windows 10 IoT Enterprise LTSC 2021. Just skip the step of running step 3: Activate Windows if you'd like to do this.

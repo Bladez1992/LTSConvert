@@ -3,9 +3,16 @@ A Powershell script to convert any 64-bit installation of Windows 10 to IoT Ente
 
 The script has been tested and works on Windows 10 Home, Pro, and Education - but it should work on any 64-bit edition of Windows 10 because of the way it functions
 
+**_Instructions_**
+
+- The Windows installer may hang a few times around 70-100% for a while - be patient and wait, it will continue
+- After restarting, run the LTSConvert script again and choose Activation - Windows will no longer be activated after the conversion
+- Choose Option 1 (HWID Activation) when the activation script runs - if it fails for some reason then choose option 4 (KMS38 Activation)
+- After Windows activates, run Windows update to get the necessary LTSC updates
+
+
 
 **_Common Questions_**
-
 
 **Will I lose any data by doing this/does this remove anything I already have installed?**
 - No! That's exactly the purpose of this, so you can switch without losing any data or having to do a fresh installation of Windows.

@@ -12,6 +12,7 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
 - After the Windows installer restarts your PC, run the LTSConvert script again and choose 3: Activate Windows - Windows will no longer be activated after the conversion
 - Choose Option 1 (HWID Activation) when the activation script runs - if it fails for some reason then choose option 4 (KMS38 Activation)
 - After Windows activates, run Windows Update to get the necessary LTSC updates
+
 **_Info_**
 - The Windows installer may hang a few times around 70-100% for a while - be patient and wait, it will continue
 

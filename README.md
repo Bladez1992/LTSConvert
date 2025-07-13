@@ -34,4 +34,4 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
   
 
 **Having an issue converting from a non-english Home version of Windows 10?**
-- See the solution [here](https://github.com/Bladez1992/LTSConvert/issues/2#issuecomment-2860795132 "here") (thanks eilegz!)
+- See the solution [here](https://github.com/Bladez1992/LTSConvert/issues/2#issuecomment-2860795132 "here") (thanks [eilegz] (https://github.com/eilegz "eilegz")!)

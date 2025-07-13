@@ -31,3 +31,7 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
   
 **Can I use a real key rather than [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts "MAS") to activate Windows 10 IoT Enterprise LTSC 2021?**
 - Yes! The only caveat being that they're generally pretty pricey ($150+) but this converts you to a full, real installation of Windows 10 IoT Enterprise LTSC 2021. Just skip running step 3: Activate Windows if you'd like to do this.
+  
+
+**Having an issue converting from a non-english Home version of Windows 10?**
+- See the solution [here](https://github.com/Bladez1992/LTSConvert/issues/2 "here")

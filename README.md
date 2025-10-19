@@ -9,6 +9,7 @@ The script has been tested and works on Windows 10 Home, Pro, and Education - bu
 - Run LTSConvert.bat **as an administrator** to run the script (or run LTSConvert.ps1 manually from an admin Powershell prompt)
 - Click on 1: Write LTSC Registry Keys to apply the necessary registry edits to make this possible
 - Click on 2: Convert Windows to LTSC 2021 - select a Windows 10 Enterprise LTSC 2021 64-bit .ISO file, or press Cancel to choose an Archive.org mirror to download one from - either way, the .ISO will be mounted and setup.exe will be run automatically
+- If the installer asks you to download updates during the install, **do not do this. it will likely cause installation to fail**
 - After the Windows installer restarts your PC, run the LTSConvert script again and choose 3: Activate Windows - Windows will no longer be activated after the conversion
 - Choose Option 1 (HWID Activation) when the activation script runs - if it fails for some reason then choose option 4 (KMS38 Activation)
 - After Windows activates, run Windows Update to get the necessary LTSC updates
